@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manoj250(Manoj D Bhat)
-- 👀 I’m interested in ...code till my mind stops responding
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...b.tech cse
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...manojdbhat250@gmail.com
