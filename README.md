@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...deep learning
 - 🌱 I’m currently learning ...b.tech cse
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...manojdbhat250@gmail.com
+- 📫 How to reach me --> manojdbhat250@gmail.com
 
 <!---
 Manoj250/Manoj250 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
