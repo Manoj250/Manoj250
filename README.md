@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manoj250(Manoj D Bhat)
-- 👀 I’m interested in ...deep learning
-- 🌱 I’m currently learning ...b.tech cse
+- 👀 I’m interested in ...Deep learning
+- 🌱 I’m currently learning ...B.tech cse
 - 📫 How to reach me --> manojdbhat250@gmail.com
 
 <!---
