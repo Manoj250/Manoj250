@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manoj250(Manoj D Bhat)
-- 👀 I’m interested in ...evrything ♾️
+- 👀 I’m interested in ...everything ♾️
 - 🌱 I’m currently working as Backend developer🧑‍💻
 - 📫 How to reach me --> manojdbhat250@gmail.com
 
